@@ -2,7 +2,7 @@
 
 - Meu nome é Eliseu
 - Estou estudando no Alura
-- Estou me desenvolvendo na linguagem JavasCript
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilo este espaço para organização e compartilhamento dos meus desenvolvidos
 **Para entrar em contato comigo 📧**
 
