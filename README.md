@@ -8,3 +8,5 @@
 
   00001103935744sp@al.educacao.sp.gov.br
 
+![](https://media1.tenor.com/m/QEMszwq2VbIAAAAC/anime.gif)  
+
