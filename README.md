@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 🌙
 
 - Meu nome é Eliseu
-- Estou estudando no Alura
+- Estou estudando no (https://wwww.alura.com)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilo este espaço para organização e compartilhamento dos meus desenvolvidos
 **Para entrar em contato comigo 📧**
